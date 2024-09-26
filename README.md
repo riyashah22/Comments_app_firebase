@@ -15,7 +15,7 @@ Here are some screenshots of the app:
 
 | | | | | |
 |---|---|---|---|---|
-| ![Simulator Screenshot 1](https://github.com/user-attachments/assets/8cb03d03-2a43-45f7-9e99-7d83160f45f8) | ![Simulator Screenshot 2](https://github.com/user-attachments/assets/8fadc374-b566-4409-becb-bac4498e6e74) | ![Simulator Screenshot 3](https://github.com/user-attachments/assets/85141e77-0173-4a05-9a07-6e3f695f0655) | ![Simulator Screenshot 4](https://github.com/user-attachments/assets/a7d4736d-4efb-48d5-ab30-d664e02274f1) | ![Simulator Screenshot 5](https://github.com/user-attachments/assets/393f4137-28d5-426d-86d3-cf1e8877682c) |
+| ![Simulator Screenshot 2](https://github.com/user-attachments/assets/8fadc374-b566-4409-becb-bac4498e6e74) | ![Simulator Screenshot 3](https://github.com/user-attachments/assets/85141e77-0173-4a05-9a07-6e3f695f0655) | ![Simulator Screenshot 4](https://github.com/user-attachments/assets/a7d4736d-4efb-48d5-ab30-d664e02274f1) | ![Simulator Screenshot 5](https://github.com/user-attachments/assets/393f4137-28d5-426d-86d3-cf1e8877682c) | ![Simulator Screenshot 1](https://github.com/user-attachments/assets/8cb03d03-2a43-45f7-9e99-7d83160f45f8) 
 
 ## Video Demo
 
